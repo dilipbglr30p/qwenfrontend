@@ -1,0 +1,5 @@
+{
+  "name": "PixelFlow SaaS",
+  "description": "A minimal, production-grade frontend for a headless image processing SaaS dashboard.",
+  "requestFramePermissions": []
+}
